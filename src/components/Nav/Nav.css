@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
+
+.nav-link {
+  color: white;
+}
+
+.selected {
+  color: yellow;
+}
+

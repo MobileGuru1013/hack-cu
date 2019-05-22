@@ -1,0 +1,38 @@
+.home {
+  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/E6xpS0jFxik7ugje7/videoblocks-digital-matrix-particles-grid-virtual-reality-abstract-cyber-space-environment-background_b-bnygt6g_thumbnail-full01.png');
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  width: 100%
+}
+
+.home a {
+  text-decoration: none;
+}
+
+.intro {
+  background-color: black;
+  opacity: 0.8;
+  width: 50%;
+  margin: auto;
+  position: relative;
+  top: 125px; padding: 100px 50px;
+}
+
+.explore {
+  font-size: 2rem;
+  text-decoration: none;
+  color: white;
+  border: 2px solid white;
+  width: 200px;
+  padding: 30px;
+  margin: auto;
+}
+
+.home h1 {
+  color: white;
+  margin-bottom: 60px;
+  font-size: 3rem;
+}

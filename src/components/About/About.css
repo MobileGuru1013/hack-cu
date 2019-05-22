@@ -1,0 +1,16 @@
+p {
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+h2 {
+  margin-bottom: 30px
+}
+
+.about-container {
+  width: 80%;
+  margin: auto;
+}
+
+.about {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,16 @@
+.header a {
+  text-decoration: none;
+}
+
+.header {
+  background-color: #002560;
+  /*background-image: url('https://thumbs.gfycat.com/LargePolishedLarva-size_restricted.gif');*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  padding: 20px 0;
+  color: white;
+}
